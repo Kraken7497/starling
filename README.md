@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
