@@ -1,1 +1,1 @@
-fix resume training
+Docs updates and improvements (#8183)
