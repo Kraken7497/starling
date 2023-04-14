@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
