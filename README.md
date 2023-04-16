@@ -1,1 +1,1 @@
-fix val each epoch
+Improve Docs arguments tables (#8415)
