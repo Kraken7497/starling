@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update Docs language dropdown height (#6927)
