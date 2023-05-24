@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
