@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
