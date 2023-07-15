@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
