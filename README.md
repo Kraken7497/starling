@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fix TFLite INT8 for OBB (#7989)
