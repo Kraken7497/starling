@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update Colab notebook for YOLOv8.1 (#8660)
