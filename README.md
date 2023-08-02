@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
