@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add estimate_speed(region_color) parameter (#8285)
