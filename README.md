@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
