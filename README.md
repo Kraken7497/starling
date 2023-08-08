@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+YOLOv8 INT8 TFLite Inference Example (#7317)
