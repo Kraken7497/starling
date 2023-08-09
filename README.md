@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
