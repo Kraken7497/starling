@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update mkdocs.yml (#7693)
