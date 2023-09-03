@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Improve Coral Edge TPU guide (#8160)
