@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
