@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
