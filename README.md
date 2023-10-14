@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
