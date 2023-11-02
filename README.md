@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
