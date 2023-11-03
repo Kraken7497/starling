@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
