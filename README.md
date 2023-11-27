@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Improve Docs arguments tables (#8415)
