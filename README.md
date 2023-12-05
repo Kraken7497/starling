@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
