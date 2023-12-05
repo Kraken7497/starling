@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.33 fix HUB model checks (#9153)
