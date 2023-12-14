@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
