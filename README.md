@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
