@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
