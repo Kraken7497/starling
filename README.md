@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add bgr hyperparameter (#9139)
