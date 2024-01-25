@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
