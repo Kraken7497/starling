@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
