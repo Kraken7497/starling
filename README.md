@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
