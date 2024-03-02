@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add docs guide terminal images (#8819)
