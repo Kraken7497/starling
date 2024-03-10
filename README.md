@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Retry once for Docker CI failures (#8164)
