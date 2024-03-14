@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
