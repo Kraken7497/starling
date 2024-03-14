@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
