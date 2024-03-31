@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
