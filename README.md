@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add horizontal Mosaic3 augmentation (#6898)
