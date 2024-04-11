@@ -1,1 +1,1 @@
-fix predict with class filter
+Use pathlib in DOTA ops (#7552)
