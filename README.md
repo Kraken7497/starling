@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Improve Coral Edge TPU guide (#8160)
