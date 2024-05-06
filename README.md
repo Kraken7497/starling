@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
