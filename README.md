@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add estimate_speed(region_color) parameter (#8285)
