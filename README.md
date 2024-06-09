@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Fix RTDETR generate anchor grid out of boundary (#7247)
