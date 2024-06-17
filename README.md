@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
