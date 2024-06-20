@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Add Amazon Sagemaker Docs integrations page (#7293)
