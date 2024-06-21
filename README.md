@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
