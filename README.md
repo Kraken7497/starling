@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Clean up unused imgsz (#7771)
