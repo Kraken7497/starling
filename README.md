@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix Yolo 8.0.206 scale bug (#7821)
