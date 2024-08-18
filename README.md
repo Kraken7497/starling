@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+fix yolo classify model loading error (#9196)
