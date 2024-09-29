@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+fix val each epoch
