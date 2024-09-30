@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
