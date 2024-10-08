@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update the heatmap module code + docs (#7045)
